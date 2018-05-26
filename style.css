@@ -9,10 +9,25 @@ main {
     text-align: center;
     color: #fff;
 }
-button {
+.middle {
+    padding: 20px;
+}
+button,
+a {
     display: block;
-    margin: 60px;
+    margin: 20px;
+    border: 1px solid white;
+    padding: 6px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #55acee;
+    color: white;
+    border-radius: 10px;
+    width: 30%;
+    font-family: serif;
 }
 .btn {
     justify-content: center;
+    text-align: center;
+    
 }
